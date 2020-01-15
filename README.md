@@ -9,5 +9,3 @@ Exchangeratesapi.io were used for foreign exchange rate
 
 
 /rate, /conversion, /conversions
-
-
