@@ -8,8 +8,6 @@ Exchangeratesapi.io were used for foreign exchange rate
 -H2 Memory Database
 
 
-/rate
-/conversion
-/conversions
+/rate, /conversion, /conversions
 
 
