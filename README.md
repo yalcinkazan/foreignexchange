@@ -2,10 +2,10 @@
 
 Exchangeratesapi.io were used for foreign exchange rate
 
--Spring Boot
--Junit 
--Mockito
--H2 Memory Database
+-Spring Boot </br>
+-Junit </br>
+-Mockito </br>
+-H2 Memory Database </br>
 
 
 
